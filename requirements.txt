@@ -4,7 +4,7 @@ streamlit
 requests
 python-multipart
 tensorflow
-opencv-python
+opencv-python-headless
 scikit-learn
 matplotlib
 seaborn
