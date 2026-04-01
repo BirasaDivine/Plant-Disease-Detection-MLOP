@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-multipart
+tensorflow
+opencv-python
+scikit-learn
+matplotlib
+seaborn
+numpy
+pillow
